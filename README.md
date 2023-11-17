@@ -1,5 +1,3 @@
-# 串口调试工具
-用于发送自定义时间和系统时间
+# Pyserial-Demo
 
-## 程序运行
-python pyserial_demo.py
+一个简单的串口工具
