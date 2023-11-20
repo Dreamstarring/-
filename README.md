@@ -4,7 +4,9 @@
 
 ## 运行环境
 python3.6
+
 PyQt5
+
 pyserial
 
 ## 运行
